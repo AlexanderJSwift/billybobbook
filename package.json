@@ -1,0 +1,22 @@
+{
+  "name": "billybobbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderJSwift/billybobbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderJSwift/billybobbook/issues"
+  },
+  "homepage": "https://github.com/AlexanderJSwift/billybobbook#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
